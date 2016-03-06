@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\scripts\Player\BombCol.cs">
+    <Files>
+      <File FileName="assets\scripts\Player\BombCol.cs" Line="31" Column="20" />
+      <File FileName="assets\scripts\GUI\GameManager.cs" Line="29" Column="8" />
+      <File FileName="assets\scripts\StupidAI\StupidFSM.cs" Line="41" Column="49" />
+      <File FileName="assets\scripts\StupidAI\DetectPlayer.cs" Line="32" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

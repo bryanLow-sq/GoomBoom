@@ -1,0 +1,4 @@
+sceneSetups:
+- path: assets/scenes/2.2.2016.unity
+  isLoaded: 1
+  isActive: 1
